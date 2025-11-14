@@ -4,7 +4,7 @@ import TextField from '@mui/material/TextField';
 import Stack from '@mui/material/Stack';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import Carlist from './Carlist'; 
+import Carlist from './CarList';
 
 // Фиктивные учетные данные
 const MOCK_USERNAME = 'test';
